@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Strawhat/static/css/main.9b2949d6.css",
+    "main.js": "/Strawhat/static/js/main.29c92fec.js",
+    "static/js/787.d4acdd3d.chunk.js": "/Strawhat/static/js/787.d4acdd3d.chunk.js",
+    "static/media/nav2.png": "/Strawhat/static/media/nav2.775d2250b592659aa347.png",
+    "static/media/nav.png": "/Strawhat/static/media/nav.19ff3006e95919c1c392.png",
+    "index.html": "/Strawhat/index.html",
+    "main.9b2949d6.css.map": "/Strawhat/static/css/main.9b2949d6.css.map",
+    "main.29c92fec.js.map": "/Strawhat/static/js/main.29c92fec.js.map",
+    "787.d4acdd3d.chunk.js.map": "/Strawhat/static/js/787.d4acdd3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b2949d6.css",
+    "static/js/main.29c92fec.js"
+  ]
+}
